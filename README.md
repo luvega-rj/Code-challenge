@@ -53,10 +53,6 @@ In this example, the function is called with a `speed` argument of 80 km/h, whic
 
 This is a JavaScript program that calculates an employee's gross salary, payee (tax), NHIF and NSSF deductions and net salary based on their basic salary and benefits.
 
-### Installation
-
-1. Clone the repository to your local machine
-2. Open the `index.html` file in your browser
 
 ### Usage
 
@@ -64,9 +60,6 @@ This is a JavaScript program that calculates an employee's gross salary, payee (
 2. The program will calculate the employee's gross salary, tax rate, payee (tax), NHIF and NSSF rates, and deductions
 3. The program will output the results in the console, including the employee's gross salary, payee, NHIF deduction, NSSF deduction, and net salary.
 
-### Contributing
-
-This repository is not open to contributions at this time.
 
 ### License
 
